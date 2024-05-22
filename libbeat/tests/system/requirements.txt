@@ -35,7 +35,7 @@ pytest-timeout==1.4.2
 pytest-rerunfailures==9.1.1
 PyYAML==5.3.1
 redis==2.10.6
-requests==2.20.0
+requests==2.32.0
 semver==2.8.1
 setuptools==47.3.2
 six==1.15.0
